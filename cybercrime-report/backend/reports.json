@@ -6,5 +6,27 @@
     "timestamp": "2025-05-16T17:24:33.741Z",
     "ticketId": "CYB315307",
     "status": "In Review"
+  },
+  {
+    "crimeType": "Financial Fraud",
+    "details": "sexual assualt",
+    "evidenceName": "Prompt_Engineering_Guide_ChatGPT.pdf",
+    "timestamp": "2025-08-05T17:32:45.715Z",
+    "ticketId": "CYB748599",
+    "status": "In Review"
+  },
+  {
+    "crimeType": "Phishing",
+    "details": "wsgsjn",
+    "evidenceName": "Complete_Prompt_Engineering_Course_ChatGPT.pdf",
+    "timestamp": "2025-08-05T17:38:03.587Z",
+    "ticketId": "CYB137725"
+  },
+  {
+    "crimeType": "Online Harassment",
+    "details": "6sx7kxik",
+    "evidenceName": "Sugali's Resume-82.pdf",
+    "timestamp": "2025-08-05T17:42:41.261Z",
+    "ticketId": "CYB363313"
   }
 ]
